@@ -1,4 +1,5 @@
 # Serializing array with integer from 1 to 300 with my algorithm of compression numbers using only ASCII symbols
+It was created for passing pre interview test from LaboratoryOfSystemTechnologies
 
 ## Where I can look how it works?
 #### Run [src/test/java/StringCompressionTest.java](src/test/java/StringCompressionTest.java)
